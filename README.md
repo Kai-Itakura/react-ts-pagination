@@ -1,1 +1,1 @@
-# react-ts-pagination
+# ReactとTypeScriptを使ってページネーションを実装
